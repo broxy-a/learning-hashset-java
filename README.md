@@ -1,18 +1,11 @@
-## Getting Started
+Voter Check
+Этот код написан на основе примера из книги "Грокаем алгоритмы" и является частью учебного процесса.
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Описание
+Простая программа на Java для проверки голосующих. Использует HashSet для предотвращения повторного голосования.
 
-## Folder Structure
+Voter Check
+This code is based on an example from the book "Grokking Algorithms" and is part of the learning process.
 
-The workspace contains two folders by default, where:
-
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
-
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+Description
+A simple Java program to check voters. It uses HashSet to prevent multiple voting.
